@@ -1,0 +1,15 @@
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/bin/Debug/net6.0/task004
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/bin/Debug/net6.0/task004.deps.json
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/bin/Debug/net6.0/task004.runtimeconfig.json
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/bin/Debug/net6.0/task004.dll
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/bin/Debug/net6.0/task004.pdb
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/obj/Debug/net6.0/task004.csproj.AssemblyReference.cache
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/obj/Debug/net6.0/task004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/obj/Debug/net6.0/task004.AssemblyInfoInputs.cache
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/obj/Debug/net6.0/task004.AssemblyInfo.cs
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/obj/Debug/net6.0/task004.csproj.CoreCompileInputs.cache
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/obj/Debug/net6.0/task004.dll
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/obj/Debug/net6.0/refint/task004.dll
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/obj/Debug/net6.0/task004.pdb
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/obj/Debug/net6.0/task004.genruntimeconfig.cache
+/Users/igornikulin/Desktop/Учёба/Lesson C#/task004/obj/Debug/net6.0/ref/task004.dll
